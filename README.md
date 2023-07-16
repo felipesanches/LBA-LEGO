@@ -4,4 +4,5 @@ This model in released to the public domain. Feel free to do whatever you want. 
 
 You're not required to do so, but I would appreciate to get photos of the model if you actually build it with real LEGO bricks ;-)
 
-![LBA2: Chez Luc scene](preview.png)
+![LBA2: Chez Luc scene - preview](preview.png)
+![LBA2: Chez Luc scene - povray render](chezluc/lba2-chez-luc.png)
