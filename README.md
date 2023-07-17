@@ -6,3 +6,6 @@ You're not required to do so, but I would appreciate to get photos of the model 
 
 ![LBA2: Chez Luc scene - preview](preview.png)
 ![LBA2: Chez Luc scene - povray render](chezluc/lba2-chez-luc.png)
+
+As a reference, this is what the scene looks like in the game:
+![Original scene from the game](chezluc/Lba2-citadel_island-lupin_bourg_chez_luc.jpg)
