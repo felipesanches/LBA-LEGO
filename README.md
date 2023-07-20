@@ -15,6 +15,6 @@ Pov-ray render:
 
 == Baldino's House ==
 ![LBA2: Chez Luc scene - preview](baldinos_house/preview.png)
-![here](baldinos_house/Baldinos_House.png)
+![here](baldinos_house/preview.png)
 
 
