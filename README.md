@@ -6,7 +6,8 @@ You're not required to do so, but I would appreciate to get photos of the models
 
 ## Baldino's House
 ![LBA2: Chez Luc scene - preview](baldinos_house/preview.png)
-![here](baldinos_house/Baldinos_House.png)
+![povray](baldinos_house/Baldinos_House.png)
+![original game scene](baldinos_house/game-scene.png)
 
 ## Chez Luc
 ![LBA2: Chez Luc scene - preview](chezluc/preview.png)
