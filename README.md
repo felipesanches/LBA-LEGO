@@ -5,7 +5,7 @@ The models are released to the public domain. Feel free to do whatever you want.
 You're not required to do so, but I would appreciate to get photos of the models if you actually build any of them with real LEGO bricks ;-)
 
 ## Baldino's House
-* [Build instructions](baldinos_house/instructions/Baldinos_House-index.html) (this is still a work-in-progress!)
+* [Build instructions](https://felipesanches.github.io/LBA-LEGO/baldinos_house/instructions/Baldinos_House-index.html) (This is still a work-in-progress!)
 ![LBA2: Chez Luc scene - preview](baldinos_house/preview.png)
 ![povray](baldinos_house/Baldinos_House.png)
 ![original game scene](baldinos_house/game-scene.png)
