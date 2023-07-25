@@ -8,6 +8,7 @@ You're not required to do so, but I would appreciate to get photos of the models
 ![LBA2: Chez Luc scene - preview](baldinos_house/preview.png)
 ![povray](baldinos_house/Baldinos_House.png)
 ![original game scene](baldinos_house/game-scene.png)
+[Build instructions](baldinos_house/instructions/Baldinos_House-index.html) (this is still a work-in-progress!)
 
 ## Chez Luc
 ![LBA2: Chez Luc scene - preview](chezluc/preview.png)
